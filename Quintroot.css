@@ -29,7 +29,7 @@ tr:hover {
 body {
     color: #000000;
     background-color: #fffdfd;
-    background-image:url("Images/Rose_background2.jpg");
+    background-image:"../Images/Rose_background2.jpg"
 	background-size:100%;
     background-repeat: repeat;
   background-position: center;
