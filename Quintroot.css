@@ -114,3 +114,15 @@ h9 {
     text-align: center;
     background-color: #c45cb6;
 }
+a:link {
+	color:blue;
+}
+a:visited {
+	color:blue;
+}
+a:hover {
+	color:yellow;
+}
+a:active {
+	color:green;
+}
