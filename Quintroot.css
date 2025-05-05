@@ -17,7 +17,7 @@ th {
 
 /* Style for table cells */
 td {
-    text-align: none; /* Center-align text */
+    text-align: center; /* Center-align text */
     padding: 10px; /* Add padding */
     border: 1px solid #ddd; /* Add border */
 }
