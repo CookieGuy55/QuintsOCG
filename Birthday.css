@@ -85,3 +85,9 @@ h9 {
     text-align: center;
     background-color: #c45cb6;
 }
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+	
